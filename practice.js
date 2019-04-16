@@ -38,7 +38,7 @@ var devMountainGoal = null
 
 function greeting (name) {
   return "Hello, " + name
-  
+
 }
 
 
@@ -47,7 +47,9 @@ function greeting (name) {
 //Rewrite the function greeting as a function expression.
 //Name it newGreeting.
 
-//Code Here
+//
+
+
 
 
 //////////////////PROBLEM 8////////////////////
